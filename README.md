@@ -1,5 +1,3 @@
-### HEY 👋🏽
-
 <h3 align="center">
  <br>
 Eai! Meu nome é Felipe 😁
