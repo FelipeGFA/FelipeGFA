@@ -1,8 +1,6 @@
 <h3 align="center">
  
- ![Hello](https://imgur.com/gallery/VbEZYAV.gif)
- 
- <hr>
+
  
  <br>
 Eai! Meu nome é Felipe 😁
@@ -11,6 +9,7 @@ Eai! Meu nome é Felipe 😁
  Estou aprendendo a programar e descobrindo as maravilhas do mundo tech :)
 </h3>
 
+<hr>
 <h3 align>
 <br>
 Você pode me encontrar aqui 👇🏽<br>
