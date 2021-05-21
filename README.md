@@ -1,6 +1,6 @@
 <h3 align="center">
- 
- ![](https://i.imgur.com/28HExFp.gif)
+
+![](https://i.imgur.com/g1WlXVA.gif)
  
  <br>
 Eai! Meu nome é Felipe 😁
