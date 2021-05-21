@@ -1,16 +1,15 @@
-### Hi there 👋
+### HEY 👋🏽
 
-<!--
-**FelipeGFA/FelipeGFA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+ <br>
+Eai! Meu nome é Felipe 😁
+<br>
+ Sou estudande de Ciêcias da Computação <br>
+ Estou aprendendo a programar e descobrindo as maravilhas do mundo tech :)
+</h3>
 
-Here are some ideas to get you started:
+Você pode me encontrar aqui 👇🏽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram Badge](https://img.shields.io/badge/-felipegfavila-9cf?style=for-the-badge&logo=instagram&logoColor=white&link=https://https://github.com/FelipeGFA)](https://www.instagram.com/felipegfavila/)
+[![Spotify Badge](https://img.shields.io/badge/-lipeávila-brightgreen?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/FelipeGFA)](https://open.spotify.com/user/lipeávila?fbclid=IwAR0vLf9kXegU7iZNCy3IJ1S6vb3sJ6CRRXelpW5tDOG5trSUGZ8SK4-Yjfg)
+[![Twitter Badge](https://img.shields.io/badge/-@felipegfavila-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/FelipeGFAvila)](https://twitter.com/FelipeGFAvila)
