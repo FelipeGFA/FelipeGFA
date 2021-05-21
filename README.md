@@ -7,7 +7,7 @@ Eai! Meu nome é Felipe 😁
 </h3>
 
 <br>
-Você pode me encontrar aqui 👇🏽
+Você pode me encontrar aqui 👇🏽<br>
 </h3>
 
 [![Instagram Badge](https://img.shields.io/badge/-felipegfavila-9cf?style=for-the-badge&logo=instagram&logoColor=white&link=https://https://github.com/FelipeGFA)](https://www.instagram.com/felipegfavila/)
