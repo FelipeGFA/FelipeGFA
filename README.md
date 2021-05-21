@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/g1WlXVA.gif)
  
- <br>
+ <hr>
 Eai! Meu nome é Felipe 😁
 <br>
  Sou estudande de Ciêcias da Computação <br>
