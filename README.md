@@ -6,8 +6,10 @@ Eai! Meu nome é Felipe 😁
  Estou aprendendo a programar e descobrindo as maravilhas do mundo tech :)
 </h3>
 
+<h3 align>
 <br>
 Você pode me encontrar aqui 👇🏽<br>
+<br>
 </h3>
 
 [![Instagram Badge](https://img.shields.io/badge/-felipegfavila-9cf?style=for-the-badge&logo=instagram&logoColor=white&link=https://https://github.com/FelipeGFA)](https://www.instagram.com/felipegfavila/)
