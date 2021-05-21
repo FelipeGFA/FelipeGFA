@@ -1,8 +1,6 @@
 <h3 align="center">
  
-<img src=" https://i.imgur.com/6KkBe5W.giff" width="1100" height="582" />
- 
-
+ ![](https://i.imgur.com/28HExFp.gif)
  
  <br>
 Eai! Meu nome é Felipe 😁
