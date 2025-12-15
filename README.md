@@ -9,6 +9,11 @@
 <h1 align="center">Hi! I'm Lip 😁</h1>
 
 ###
+<div>
+  <img src="https://counter.kuber.studio/FelipeGFA/dark/count.svg" alt="Profile views" />
+</div>
+
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 
